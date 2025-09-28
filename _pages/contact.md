@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 permalink: /contact/
-slug: "contact"
 ---
 
 Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25 Mediengesetz.
