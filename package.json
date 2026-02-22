@@ -4,6 +4,10 @@
   "scripts":{
     "start": "node index.js"
   },
+  "dependencies": {
+    "tar": ">=7.5.8",
+    "glob": ">=10.5.0"
+  },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.1",
