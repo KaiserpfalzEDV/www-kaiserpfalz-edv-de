@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/compare/v1.2.0...v1.2.1) (2026-02-22)
+
+
+### Bug Fixes
+
+*  links reparieren. ([18f167a](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/commit/18f167ad96d7817d0c491ccb2a09d2d902932842))
+
 # [1.2.0](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/compare/v1.1.3...v1.2.0) (2025-09-28)
 
 
