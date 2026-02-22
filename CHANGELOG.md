@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/compare/v1.2.1...v1.2.2) (2026-02-22)
+
+
+### Bug Fixes
+
+* security fixes for npm ([3f1ceca](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/commit/3f1ceca75721c05ce742c2f7141fb33728eb4181))
+
 ## [1.2.1](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/compare/v1.2.0...v1.2.1) (2026-02-22)
 
 
