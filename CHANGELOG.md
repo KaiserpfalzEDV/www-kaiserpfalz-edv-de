@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/compare/v1.2.2...v1.2.3) (2026-02-22)
+
+
+### Bug Fixes
+
+* fixing dependabot requests (hopefully) ([e2091e8](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/commit/e2091e825c0e1901820ae15a7a07624e7f7b5699))
+
 ## [1.2.2](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/compare/v1.2.1...v1.2.2) (2026-02-22)
 
 
